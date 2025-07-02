@@ -4,7 +4,7 @@
 
 - 📧 [Email](furqanjavedafridi@gmail.com)  
 - 🎞  [LinkedIn](https://www.linkedin.com/in/furqanjavedafridi/) <!-- Add your actual LinkedIn URL here -->
-- 💼 [Portfolio](https://github.com/FurqanAfridi/portfolio)
+- 💼 [Portfolio](https://furqanafridi.github.io/portfolio/)
 - 💻 [Upwork](https://upwork.com/freelancers/furqanjavedafridi)
 
 ---
