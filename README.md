@@ -89,15 +89,18 @@ life_philosophy: "Automation is the bridge between complexity and simplicity."
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=furqanafridi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+<!-- Replace 'furqanafridi' with your actual GitHub username -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=furqanafridi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=furqanafridi&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+![GitHub Streak](https://streak-stats.demolab.com/?user=furqanafridi&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furqanafridi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furqanafridi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8&exclude_repo=portfolio-v2)
 
 </div>
 
@@ -107,7 +110,8 @@ life_philosophy: "Automation is the bridge between complexity and simplicity."
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=furqanafridi&theme=radical&no-frame=true&column=7)
+<!-- Replace 'furqanafridi' with your actual GitHub username -->
+![trophy](https://github-profile-trophy.vercel.app/?username=furqanafridi&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15)
 
 </div>
 
@@ -117,7 +121,8 @@ life_philosophy: "Automation is the bridge between complexity and simplicity."
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=furqanafridi&theme=redical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
+<!-- Replace 'furqanafridi' with your actual GitHub username -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=furqanafridi&theme=radical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_title=true)
 
 </div>
 
